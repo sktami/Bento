@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Wells Fargo',
+			icon: 'wallet',
+			link: 'https://www.wellsfargo.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Personal Capital',
+			icon: 'piggy-bank',
+			link: 'https://home.personalcapital.com/page/login/app#/dashboard',
 		},
 	],
 
